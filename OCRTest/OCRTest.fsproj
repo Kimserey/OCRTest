@@ -60,7 +60,7 @@
     <None Include="test\test.tif">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="test\test_2.png">
+    <None Include="test\Snakeware.pdf">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="tessdata\eng.cube.bigrams">
